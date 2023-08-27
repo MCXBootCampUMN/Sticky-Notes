@@ -39,4 +39,4 @@ Sticky Notes to save notes and delete
 
 <img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/Sticky-Notes/main/Notes.png">
 
-#### Thank you
+#### Thank you for checking out this Repo

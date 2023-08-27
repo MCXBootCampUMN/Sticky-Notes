@@ -37,10 +37,6 @@ Sticky Notes to save notes and delete
 
 #### images
 
-<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Imasges/d1%20Start.png">
+<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/MCXBootCampUMN/Sticky-Notes/main/Notes.png">
 
-<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Imsages/2%2d0Mid.png">
-
-<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Mcnoor/Challenge3-BC/main/Images/3%2d0Final.png">
-s
 #### Thank you

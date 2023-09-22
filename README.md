@@ -1,7 +1,9 @@
-# Sticky-Notes
+# Sticky-Notes (JS)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/Sticky-Notes)
 ![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/Sticky-Notes)
+
+## Portfolio 2 Project
 
 ### Purpose
 

@@ -28,12 +28,12 @@ Sticky Notes to save notes and delete
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://mcxbootcampumn.github.io/Sticky-Notes/)
+[Github-Project](https://Maxamed-NCX.github.io/Sticky-Notes/)
 
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/MCXBootCampUMN/Sticky-Notes)
+[Github-Repo](https://github.com/Maxamed-NCX/Sticky-Notes)
 
 #### images
 
